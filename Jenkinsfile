@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DIRECTORY_PATH = "https://github.com/Sanchit-Gt/Task_6.2C/new/main"
-        TESTING_ENVIRONMENT = "Sanchhit's TestingEnv"
+        TESTING_ENVIRONMENT = "Sanchhit's Testing file "
         PRODUCTION_ENVIRONMENT = "Sanchit Gupta"
     }
 
