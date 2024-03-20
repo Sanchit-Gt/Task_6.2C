@@ -12,7 +12,7 @@ pipeline {
             steps {
                 echo "Fetching the source code from the directory path specified by the environment variable: ${env.DIRECTORY_PATH}"
                 echo "Compiling the code and generating any necessary artifacts, updated"
-                  echo "updated thhe file"
+                  echo "update updated thhe file"
               
             }
         }
